@@ -1,0 +1,45 @@
+{
+    "fudgy": [
+        
+        {
+            "foto": "https://th.bing.com/th/id/OIP.DvtMOyIlvS9WIwvBA_EI2AAAAA?rs=1&pid=ImgDetMain",
+            "nama": "Chocolate Chips Cookies",
+            "size": "50 Gram",
+            "harga": "20.000",
+            "link": "https://www.tokopedia.com/shighlands/chocolate-chip-cookies?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/18/5b0c109e-8f2d-420c-be5c-db9c73e4f47d.jpg",
+            "nama": "Giant Birthday Soft Cookie",
+            "size": "290 Gram",
+            "harga": "102.000",
+            "link": "https://www.tokopedia.com/delicebydite/giant-birthday-soft-cookie-14-cm-tulisan-di-kue-dabi?extParam=ivf%3Dfalse%26src%3Dsearch"
+        }
+    ],
+    "crispy": [
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/24/0fb3aac1-1691-440e-83d1-93983b2e254d.jpg",
+            "nama": "Gingersnaps Cookies",
+            "size": "250 Gram",
+            "harga": "60.000",
+            "link": "https://www.tokopedia.com/lindscookie/kue-kering-jahe-gingersnaps-cookies-gingerbread-man-cookies?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "chewy": [
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/24/0fb3aac1-1691-440e-83d1-93983b2e254d.jpg",
+            "nama": "Dark Chocolate Chewy Cookies",
+            "size": "220 Gram",
+            "harga": "60.000",
+            "link": "https://www.tokopedia.com/vulpixcoffeejkt/bite-sized-salted-dark-chocolate-chewy-cookies-10-pcs-vulpix-coffee?extParam=ivf%3Dfalse%26src%3Dsearch"
+
+        }
+    ]
+}
